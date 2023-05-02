@@ -1,8 +1,8 @@
 
 JSON
 
- 1.Создать внешний репозиторий c названием JSON.
- 2. Клонировать репозиторий JSON на локальный компьютер. - git clone https://github.com/JaneVKent/JSON.git
+1.Создать внешний репозиторий c названием JSON.
+2. Клонировать репозиторий JSON на локальный компьютер. - git clone https://github.com/JaneVKent/JSON.git
  3. Внутри локального JSON создать файл “new.json”. - vim "new.json"
  4. Добавить файл под гит. - git add .
  5. Закоммитить файл. - git commit -m "new"
